@@ -11,7 +11,7 @@ An intelligent finance agent built using the [Phi framework](https://github.com/
 - 📊 Run investment research via OpenBB
 - 🔎 Use Google Search to find latest market news
 - ⚡️ Powered by GROQ LLM for lightning-fast performance
-- 🧠 Built on the modular agentic AI structure from Phi
+- 🧠 Built on the modular agentic AI structure from Phi-Data
 
 ---
 ## 📸 Screenshots
