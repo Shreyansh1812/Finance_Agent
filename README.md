@@ -15,5 +15,6 @@ An intelligent finance agent built using the [Phi framework](https://github.com/
 
 ---
 ## 📸 Screenshots
-(Images/Img-01.png)
-(Images/Img-02.png)
+![Sceenshot-01](Images/Img-01.png)
+![Screenshot-02](Images/Img-02.png)
+
